@@ -1,0 +1,5 @@
+print("\n Dispalys a new line")
+print("\t Dispalys a tab space")
+print("\\ Dispalys a backslash")
+print("\" displays a double quote")
+print("\'displays a single quoute")
