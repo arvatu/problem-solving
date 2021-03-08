@@ -126,5 +126,7 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+.pyre/
+
 #repl config file ignored
 .replit

@@ -21,4 +21,5 @@ elif option == 4:
   print("what number would you like to see times table for?")
   n = int(input())
   for i in range(1,11,1):
-     print("{}x{} = {}".format(n,i.n*i))
+
+  print("{}x{} = {}".format(n,i.n*i))
